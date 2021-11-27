@@ -1,0 +1,5 @@
+name: FlyBoostLimiter
+main: dalabi.flyboostlimiter.FlyBoostLimiterPlugin
+author: DaLabi
+version: 0.0.1
+description: should work, i think

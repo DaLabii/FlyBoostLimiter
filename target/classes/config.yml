@@ -1,0 +1,2 @@
+# the limit number is slightly higher than the actual speed it blocks, so for example around 2.2 on the limit is like 2x flyboost
+limit: 2.2
